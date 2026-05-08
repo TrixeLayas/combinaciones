@@ -1,3 +1,5 @@
+MARCO ANTONIO VIZCARRA VALLE  #25760062
+
 Sistema de Combinaciones de Productos en Go
 Descripción
 
